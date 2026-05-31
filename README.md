@@ -15,11 +15,4 @@ Este proyecto implementa autenticación y autorización con **Spring Boot + JWT*
 POST  
 http://localhost:8080/api/auth/signup  
 
-### ➤ Body (JSON):
-```json
-{
-   "username":"admin",
-   "email":"admin@test.com",
-   "password":"123456",
-   "roles":["ADMIN"]
-}
+<img width="1431" height="623" alt="image" src="https://github.com/user-attachments/assets/4e0a62c1-9a50-4863-836c-87b6aa4dd07a" />
