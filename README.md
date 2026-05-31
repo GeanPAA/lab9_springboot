@@ -52,4 +52,13 @@ http://localhost:8081/api/auth/signin
 
 <img width="1431" height="651" alt="image" src="https://github.com/user-attachments/assets/c4deaeff-117a-4f5a-88b1-db92d186361f" />
 
+## 🔒 6. PROBAR RUTA (USER)
+
+### ➤ Método:
+GET
+http://localhost:8081/api/test/user
+
+<img width="1436" height="475" alt="image" src="https://github.com/user-attachments/assets/3c35f3cf-9482-44ec-b832-2739e2bee7db" />
+
+
 
